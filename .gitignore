@@ -1,0 +1,10 @@
+# Compiled binaries
+runtime
+*.out
+*.exe
+
+# Object files
+*.o
+
+# Debug files
+*.gdb
